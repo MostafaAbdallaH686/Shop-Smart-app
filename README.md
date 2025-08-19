@@ -20,7 +20,7 @@ E_Commerce App
 
 ![Details Screen](Screenshot_20250819_154427_com.example.e_commerce.jpg)
 
-![Search](Screenshot_20250819_154441_com.example.e_commerce.jp)
+![Search](Screenshot_20250819_154501_com.example.e_commerce.jpg)
 
 🛠️ Built With
 Flutter - Cross-platform framework
