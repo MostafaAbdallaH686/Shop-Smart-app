@@ -14,13 +14,13 @@ E_Commerce App
 
 📸 Preview
 🖼 Screenshots
-https://Screenshot_20250819_154419_com.example.e_commerce.jpg
+![Cart Screen](Screenshot_20250819_154441_com.example.e_commerce.jpg) 
 
-https://Screenshot_20250819_154427_com.example.e_commerce.jpg
+![Home Screen](Screenshot_20250819_154419_com.example.e_commerce.jpg)
 
-https://Screenshot_20250819_154441_com.example.e_commerce.jpg
+![Details Screen](Screenshot_20250819_154427_com.example.e_commerce.jpg)
 
-https://Screenshot_20250819_154441_com.example.e_commerce.jpg
+![Search](Screenshot_20250819_154441_com.example.e_commerce.jp)
 
 🛠️ Built With
 Flutter - Cross-platform framework
